@@ -1,2 +1,2 @@
 # green_porter
-hello guys this is my new script its for port scaning and its free 
+hello guys this is mu new script this script for port scanning this script coded by green cyber and wolf cyber security
